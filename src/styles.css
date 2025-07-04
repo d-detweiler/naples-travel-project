@@ -24,6 +24,10 @@ body {
   grid-template-columns: 1fr 1fr 1fr;
 }
 
+.gallery.grid-3-columns {
+  margin-top: 32px;
+}
+
 section {
   max-width: 100%;
   margin: 0 auto;
